@@ -1,0 +1,15 @@
+{
+  "name": "ganesh-nimajjanam-hyderabad",
+  "type": "module",
+  "private": true,
+  "description": "Dependency-free single-page information site for the Ganesh Nimajjanam Hyderabad 2026 immersion.",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test tests/"
+  }
+}
