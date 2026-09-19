@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "Ganesh Nimajjanam Hyderabad 2026",
+    "verified_on": "2026-09-19",
+    "verified_on_note": "Facts compiled 19 September 2026 from The Hindu, Deccan Chronicle, BGUS announcements, GHMC/Hyderabad Police advisories and Telangana High Court reporting.",
+    "festival_start": "2026-09-14",
+    "immersion_date": "2026-09-25",
+    "immersion_tithi": "Anant Chaturdashi",
+    "utsav_days": 12
+  },
+  "key_facts": [
+    {
+      "id": "immersion-date",
+      "label": "Mass immersion (main day)",
+      "value": "Friday, 25 September 2026",
+      "detail": "Anant Chaturdashi. Celebrations run 12 days from installation on Monday, 14 September 2026 — one day longer than the usual 11.",
+      "sources": ["thehindu_bgus", "deccanchronicle", "bozokmedia"]
+    },
+    {
+      "id": "installation-date",
+      "label": "Idol installation (Sthapana)",
+      "value": "Monday, 14 September 2026",
+      "detail": "Vinayaka Chavithi. Tithi began 7:06 AM IST in Hyderabad.",
+      "sources": ["hindutone", "thehindu_bgus"]
+    },
+    {
+      "id": "household-immersion",
+      "label": "Household idol immersion days",
+      "value": "1st, 3rd, 5th, 7th or 10th day",
+      "detail": "Family custom decides. Household and small-pandal immersions begin well before the main day — small idols were already being immersed at NTR Gardens, Necklace Road, People's Plaza and the IMAX Theatre lane from 16 September.",
+      "sources": ["gulte", "trikalvaani"]
+    },
+    {
+      "id": "muhurat",
+      "label": "Immersion muhurat (Madhyahna)",
+      "value": "10:55 – 13:18",
+      "detail": "Astrologically computed window, not a police schedule. The procession itself runs through the day. Confirm with your purohit for a family immersion.",
+      "sources": ["trikalvaani"]
+    },
+    {
+      "id": "immersion-points-count",
+      "label": "Designated immersion locations",
+      "value": "150 points",
+      "detail": "Includes Hussain Sagar (Vinayaksagar), Saroornagar Lake, Ameenpur Lake and Kapra Lake, plus about 110 local ponds and specially built artificial ponds.",
+      "sources": ["thehindu_bgus", "bozokmedia"]
+    },
+    {
+      "id": "approved-hussain-sagar-points",
+      "label": "Approved Hussain Sagar immersion spots",
+      "value": "NTR Marg, Necklace Road, People's Plaza",
+      "detail": "Cranes, platforms and equipment are installed at these points. Immersion from the Tank Bund road side is NOT permitted.",
+      "sources": ["gulte", "siasat", "sakshipost"]
+    },
+    {
+      "id": "tank-bund-ban",
+      "label": "Tank Bund road-side immersion",
+      "value": "Banned",
+      "detail": "GHMC and Hyderabad Police installed warning banners and a roughly 10-foot railing along Tank Bund to stop direct immersion from the road, citing a High Court order and traffic congestion. The ban applies to the Tank Bund side, not to Hussain Sagar as a whole.",
+      "sources": ["gulte", "siasat", "thehansindia", "hyderabadmail"]
+    },
+    {
+      "id": "pop-ban",
+      "label": "Plaster of Paris (PoP) idols",
+      "value": "Not allowed in Hussain Sagar or natural water bodies",
+      "detail": "PoP idols must go to artificial 'baby ponds' only. Telangana High Court (2021, reiterated 2023) barred direct PoP immersion in Hussain Sagar and other natural water bodies; the Supreme Court allowed a one-time exception for 2021 only, on the state's undertaking to build alternatives. Baby ponds are provided at Necklace Road and Sanjeevaiah Park among other sites.",
+      "sources": ["gulte", "siasat", "sakshipost", "hyderabadmail"]
+    },
+    {
+      "id": "height-cap",
+      "label": "Idol height cap",
+      "value": "16 feet",
+      "detail": "Announced by Hyderabad Police to reduce risk from overhead electrical lines, cable and internet wires, bridges, road clearances and crane movement. Organisers moving large idols must coordinate with traffic police and avoid peak hours.",
+      "sources": ["sakshipost", "gulte", "thehindu"]
+    },
+    {
+      "id": "route",
+      "label": "Main Shobha Yatra route",
+      "value": "19 km — Balapur to Tank Bund",
+      "detail": "Balapur Ganesh pandal to Chandrayangutta, Falaknuma, Charminar, M.J. Market, Telugu Thalli Junction and Flyover, then Hussain Sagar. Checked for road condition, height restrictions and overhead clearance.",
+      "sources": ["hyderabadnewshunt", "gulte"]
+    },
+    {
+      "id": "police-deployment",
+      "label": "Security deployment",
+      "value": "About 20,000 personnel",
+      "detail": "City Police Commissioner V.C. Sajjanar. The entire route is monitored by CCTV connected to the Command Control Centre, with barricades, cranes, boats, swimmers, ambulances and emergency teams at key locations.",
+      "sources": ["gulte", "hyderabadnewshunt", "sakshipost"]
+    },
+    {
+      "id": "scale",
+      "label": "Expected scale",
+      "value": "About 1.5 lakh idols in Greater Hyderabad",
+      "detail": "In 2025, over 2.54 lakh idols were immersed across Greater Hyderabad limits and more than 20,000 on the final day alone, about 10,000 of those in Hussain Sagar. Comparable or larger numbers are expected this year.",
+      "sources": ["gulte", "newsdrum"]
+    },
+    {
+      "id": "transport",
+      "label": "Public transport on 25 September",
+      "value": "Metro until about 1 AM; overnight MMTS",
+      "detail": "Metro Rail services are expected to run until about 1 a.m. Overnight MMTS services connect Nampally, Lakdi-ka-pul, Khairatabad, Sanjeevaiah Park, James Street and Begumpet. Extra buses and goods vehicles are arranged.",
+      "sources": ["thehindu"]
+    },
+    {
+      "id": "road-works-freeze",
+      "label": "Road works freeze",
+      "value": "No digging, drilling or cable-laying until immersion ends",
+      "detail": "All ongoing road, nala and slab works on main and feeder immersion routes had to be finished before 14–15 September. Loose and hanging electricity, cable and internet wires are being removed along the route.",
+      "sources": ["thehindu"]
+    },
+    {
+      "id": "khairatabad",
+      "label": "Khairatabad Ganesh",
+      "value": "The city's headline idol",
+      "detail": "A towering clay idol in a large pandal, historically exceeding 60 feet. Its immersion at Hussain Sagar is the focal point of the procession. In 2025 the Khairatabad and Balapur idols were both immersed in Hussain Sagar on the final day.",
+      "sources": ["newsdrum", "hindutone"]
+    },
+    {
+      "id": "balapur-laddu",
+      "label": "Balapur Laddu auction",
+      "value": "Annual auction of the sacred prasadam",
+      "detail": "The Balapur Ganesh laddu is auctioned to devotees, often fetching large sums. The Balapur pandal marks the starting point of the 19 km Shobha Yatra.",
+      "sources": ["hindutone", "hyderabadnewshunt"]
+    },
+    {
+      "id": "cranes",
+      "label": "Cranes and immersion throughput",
+      "value": "134 static and 259 mobile cranes (2025 baseline)",
+      "detail": "Cranes handled the final day in 2025 across 20 major lakes and 72 artificial ponds. More platforms and cranes are being added on the NTR Marg side so more idols can be handled simultaneously; authorities want the main operation to finish the same day.",
+      "sources": ["newsdrum", "gulte"]
+    },
+    {
+      "id": "idol-material",
+      "label": "Recommended idol material",
+      "value": "Eco-friendly clay (eco Ganesh)",
+      "detail": "Follow Telangana State Pollution Control Board conditions. Clay and eco-friendly idols may use designated lake-side crane points; PoP idols may not enter natural water bodies at all.",
+      "sources": ["hindutone", "gulte", "sakshipost"]
+    }
+  ],
+  "source_index": {
+    "thehindu": {
+      "title": "Hyderabad CP reviews Ganesh idol immersion arrangements, calls for strict safety and traffic measures",
+      "outlet": "The Hindu",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-cp-reviews-ganesh-idol-immersion-arrangements-calls-for-strict-safety-and-traffic-measures/article71448347.ece"
+    },
+    "thehindu_bgus": {
+      "title": "Ganesh celebrations from Sept. 14; immersion on Sept. 25",
+      "outlet": "The Hindu",
+      "url": "https://thehindu.com/news/cities/Hyderabad/ganesh-celebrations-from-sept-14-immersion-on-sept-25/article71452121.ece"
+    },
+    "deccanchronicle": {
+      "title": "Hyderabad: Ganesh Fest to Roll Into 12th Day, Immersion on Sept 25",
+      "outlet": "Deccan Chronicle",
+      "url": "https://deccanchronicle.com/amp/southern-states/telangana/hyderabad-ganesh-fest-to-roll-into-12th-day-immersion-on-sept-25-1986529"
+    },
+    "bozokmedia": {
+      "title": "Hyderabad Ganesh Utsav 2026: Dates Revealed (Immersion & Installation Schedule)",
+      "outlet": "Bozok Media",
+      "url": "https://bozokmedia.com/en/national/2026/09/10/hyderabad-ganesh-celebrations-to-begin-sept-14-mass-immersion-on-sept-25-189651"
+    },
+    "sakshipost": {
+      "title": "Hyderabad Ganesh Immersion 2026: Tank Bund Rules and Latest Updates",
+      "outlet": "Sakshi Post",
+      "url": "https://www.sakshipost.com/news/telangana/hyderabad-ganesh-immersion-2026-tank-bund-rules-and-latest-updates-482319"
+    },
+    "siasat": {
+      "title": "Ganesh idols immersed at Hyderabad's Tank Bund despite ban",
+      "outlet": "Siasat Daily",
+      "url": "https://www.siasat.com/ganesh-idols-immersed-at-hyderabads-tank-bund-despite-ban-3543516/"
+    },
+    "gulte": {
+      "title": "From Tank Bund to Baby Ponds: How Hyd Is Planning Ganesh Immersion This Year",
+      "outlet": "Gulte",
+      "url": "https://www.gulte.com/political-news/432268/from-tank-bund-to-baby-ponds-how-hyd-is-planning-ganesh-immersion-this-year"
+    },
+    "hyderabadmail": {
+      "title": "Hyderabad Tank Bund immersion row resurfaces",
+      "outlet": "Hyderabad Mail",
+      "url": "https://hyderabadmail.com/hyderabad-tank-bund-ganesh-immersion-pop-idols-dispute/"
+    },
+    "thehansindia": {
+      "title": "Banners installed banning Ganesh idol immersion at Tank Bund",
+      "outlet": "The Hans India",
+      "url": "https://www.thehansindia.com/news/cities/hyderabad/banners-installed-banning-ganesh-idol-immersion-at-tank-bund-1122412"
+    },
+    "hyderabadnewshunt": {
+      "title": "Sajjanar inspects Ganesh immersion route in Hyderabad",
+      "outlet": "Hyderabad News Hunt",
+      "url": "https://hyderabadnewshunt.com/ganesh-immersion-route-balapur-tank-bund-inspection/"
+    },
+    "newsdrum": {
+      "title": "Thousands of Ganesha idols immersed in Telangana, concluding 11-day festival",
+      "outlet": "NewsDrum / PTI",
+      "url": "https://newsdrum.in/national/thousands-of-ganesha-idols-immersed-in-telangana-concluding-11-day-festival-10047595"
+    },
+    "hindutone": {
+      "title": "Vinayaka Chavithi 2026 Hyderabad: Khairatabad Ganesh, Balapur Laddu & Nimajjanam",
+      "outlet": "HinduTone",
+      "url": "https://hindutone.com/festivals/ganesh-chaturthi-2026-hyderabad"
+    },
+    "trikalvaani": {
+      "title": "Ganesh Chaturthi Hyderabad — Muhurat, Vidhi & Samagri",
+      "outlet": "Trikaal Vaani",
+      "url": "https://trikalvaani.com/hyderabad/events/ganesh-chaturthi-2030"
+    }
+  },
+  "route": [
+    { "order": 1, "place": "Balapur Ganesh pandal", "note": "Start point. Balapur laddu auction." },
+    { "order": 2, "place": "Chandrayangutta", "note": "Old City corridor entry." },
+    { "order": 3, "place": "Falaknuma", "note": "Height and overhead clearance checks." },
+    { "order": 4, "place": "Charminar", "note": "Densest crowd section." },
+    { "order": 5, "place": "M.J. Market", "note": "Junction inspection point." },
+    { "order": 6, "place": "Telugu Thalli Junction / Flyover", "note": "Approach to the lake." },
+    { "order": 7, "place": "Hussain Sagar — NTR Marg", "note": "Main immersion. Clay and eco idols at crane points." },
+    { "order": 8, "place": "Necklace Road and People's Plaza", "note": "Crane points plus baby ponds for PoP idols." }
+  ]
+}
