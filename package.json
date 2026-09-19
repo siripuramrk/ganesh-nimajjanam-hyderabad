@@ -5,7 +5,7 @@
   "description": "Dependency-free single-page information site for the Ganesh Nimajjanam Hyderabad 2026 immersion.",
   "license": "UNLICENSED",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "scripts": {
     "build": "node scripts/build.mjs",
